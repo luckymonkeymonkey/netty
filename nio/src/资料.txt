@@ -1,0 +1,3 @@
+深入浅出NIO Socket实现机制:http://www.jianshu.com/p/0d497fe5484a
+Java NIO Selector详解（含多人聊天室实例）:http://blog.csdn.net/jeffleo/article/details/54695959?locationNum=6&fps=1
+Java NIO学习笔记---Channel:https://www.cnblogs.com/ysw-go/p/5974372.html
